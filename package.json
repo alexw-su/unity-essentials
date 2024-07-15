@@ -2,7 +2,7 @@
     "name": "com.alexw-su.unity-essentials",
     "version": "1.0.0",
     "displayName": "alexw-su's Unity Essentials",
-    "description": "A package that provides a collection of C# implementations that provide better decoupling, design patterns, etc.\nThe package includes the following implementations:\n - EventBus, by git-amend. \n - EventChannels, by git-amend. \nAll credits go to the original authors of the implementations provided in the package.",
+    "description": "A package that provides a collection of C# implementations that provide better decoupling, design patterns, etc.\n \nThe package includes the following implementations:\n - EventBus, by git-amend. \n - EventChannels, by git-amend. \n \nAll credits go to the original authors of the implementations provided in the package.",
     "unity": "2022.3",
     "author": {
         "name": "Alex Su",
