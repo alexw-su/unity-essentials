@@ -1,0 +1,12 @@
+{
+    "name": "com.alexw-su.unity-essentials",
+    "version": "1.0.0",
+    "displayName": "alexw-su's Unity Essentials",
+    "description": "A package that provides a collection of C# implementations that provide better decoupling, design patterns, etc.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Alex Su",
+        "email": "alexwiesu@gmail.com",
+        "url": "https://alexw-su.github.io/" 
+    }
+}
