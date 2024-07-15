@@ -1,4 +1,4 @@
-namespace alexwsu.EventChannels
+namespace Alexwsu.EventChannels
 {
     public class BoolEventListener : EventListener<bool> { }
 }

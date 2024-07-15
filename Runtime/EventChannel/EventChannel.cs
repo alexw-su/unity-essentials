@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using UnityEngine;
 
-namespace alexwsu.EventChannels
+namespace Alexwsu.EventChannels
 {
     public abstract class EventChannel<T> : ScriptableObject
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace alexwsu.EventChannels
+namespace Alexwsu.EventChannels
 {
     [CreateAssetMenu(menuName = "EventChannel/Bool")]
     public class BoolEventChannel : EventChannel<bool> { }

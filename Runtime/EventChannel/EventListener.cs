@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace alexwsu.EventChannels
+namespace Alexwsu.EventChannels
 {
     public abstract class EventListener<T> : MonoBehaviour
     {
